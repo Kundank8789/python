@@ -33,4 +33,5 @@ $ python main.py summarize --text "Artificial Intelligence is transforming softw
 │ AI is transforming software development by automating  │
 │ tasks, improving productivity, and enhancing user      │
 │ experiences across industries.                         │
-└─────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────
+Auther: Kundan Rajput┘
